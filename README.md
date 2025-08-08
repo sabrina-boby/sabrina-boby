@@ -51,8 +51,6 @@ while actively contributing to open-source and personal projects.
 ## 🔗 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sabrina-boby)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/sabrina-boby)
-<a href="https://www.instagram.com/sabrina_boby"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
 
 ---
 

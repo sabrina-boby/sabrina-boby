@@ -4,8 +4,8 @@
 # 👩‍💻 Sabrina Akter Boby  
 ### MERN Stack Developer  
 
-📍 Dhaka, Bangladesh  
-📩 sabrinaboby786@gmail.com | 📞 01987356091  
+📍 ECB chatter Dhaka, Bangladesh  
+📩 sabrinaboby786@gmail.com 
 
 ---
 

@@ -1,6 +1,5 @@
 <!-- Banner Image -->
-<img width="100%" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="my banner">
-
+<img width="100%" src="https://raw.githubusercontent.com/sabrina-boby/sabrina-boby/62589763556d0056ffad14a2d171036412cc6d82/Banner.gif" alt="my banner">
 
 # 👩‍💻 Sabrina Akter Boby  
 ### MERN Stack Developer  

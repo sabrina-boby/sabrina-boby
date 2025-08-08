@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="[[https://i.imgur.com/zJ2JX8k.png](https://ibb.co.com/RkCK3CkK)](https://ibb.co.com/RkCK3CkK)](https://ibb.co.com/RkCK3CkK)" alt="Sabrina Akter Boby" style="width:100%; border-radius: 10px;" />
+[<img src="[[https://i.imgur.com/zJ2JX8k.png](https://ibb.co.com/RkCK3CkK)](https://ibb.co.com/RkCK3CkK)](https://ibb.co.com/RkCK3CkK)"](https://ibb.co.com/RkCK3CkK) alt="Sabrina Akter Boby" style="width:100%; border-radius: 10px;" />
 
 # 👩‍💻 Sabrina Akter Boby  
 ### MERN Stack Developer  

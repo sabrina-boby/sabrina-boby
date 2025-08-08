@@ -56,9 +56,9 @@ while actively contributing to open-source and personal projects.
 
 ## 📊 GitHub Stats  
 
-![Sabrina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabrinaboby&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaboby&layout=compact&theme=default)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabrinaboby&theme=default)
+![Sabrina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabrina-boby&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-boby&layout=compact&theme=default)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabrina-boby&theme=default)
 
 ---
 

@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![image alt](https://github.com/sabrina-boby/sabrina-boby/blob/d50c7cfb1446f09452b92ffcfb9cd0bedd9ef9ff/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+<img width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="my banner">
 
 # 👩‍💻 Sabrina Akter Boby  
 ### MERN Stack Developer  
